@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ppxdh/ppxdh.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>皮皮虾资源-皮皮虾导航-皮皮虾导航网</title>
+	<link rel="shortcut icon" type="image/png" href="favicon.png">
+	<link rel="stylesheet" href="https://fonts.loli.net/css?family=Karla:400%7CPoppins:400,400i,500,700">
+	<style>
+		body{
+			background-color: #3598db;
+			color: #fff;
+			font-family: 'Poppins', sans-serif;
+			font-size: 14px;
+			position: relative;
+			overflow-x: hidden !important;
+		}
+		.main{
+			padding-top: 8%;
+		}
+		.content{
+		    text-align: center;
+		}
+		.content h2 {
+		    color: #fff;
+		    font-size: 60px;
+		    line-height: 80px;
+		    margin-bottom: 0;
+		}
+		.content p {
+			font-family: 'Karla', sans-serif;
+		    font-size: 18px;
+		    margin-bottom: 30px;
+		}
+		.about{
+			display: inline-block;
+			font-weight: 400;
+			text-align: center;
+			white-space: nowrap;
+			vertical-align: middle;
+			-webkit-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			user-select: none;
+			border: 1px solid transparent;
+			line-height: 1.5;
+			transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+		    color: #fff;
+		    background-color: transparent;
+		    border-color: #fff;
+		    font-size: 14px;
+	        border-radius: 50px;
+	        padding: 8.5px 27px;
+	        text-decoration: none;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		}
+	</style>
+</head>
+<body>
+	<section class="main">
+	    <div class="container">
+	    	<div class="content">
+	    	    <h2>梯云梯 网址发布页</h2>
+	    	    <p><font size="6">=>>以下为永久地址，ctrl+D收藏本页<<=</font></p>
+	    	    <a class="about"  href="https://tiyun.cc"> <font size="5">tiyun.cc</font></a>
+	    	    <p><font size="3">目前跳转至 <a href="https://tyt4.xyz">tyt4.xyz</a> ,若无法跳转可清除浏览器缓存或者手动打开</font></p>
+		    <p><font size="4">若以上网址打不开可尝试备用站点： <a href="https://bei.tyt5.xyz">bei.tyt5.xyz</a> </font></p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	    	</div>  
+	    </div>
+	</section>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+</body>
+</html>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ppxdh/ppxdh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
